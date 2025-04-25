@@ -25,3 +25,11 @@ Built with only **HTML and CSS**, this responsive component highlights one image
 ## 📁 Folder Structure
 
 ![image alt](https://github.com/jibii1/3D-Slider-Animation/blob/7499302428812633fea0b1f806ef96b080f470c4/Screenshot%202025-04-25%20160313.png)
+
+---
+
+📌 Technologies Used
+
+- ✅ HTML5
+- ✅ CSS3
+  
