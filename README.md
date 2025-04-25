@@ -24,19 +24,4 @@ Built with only **HTML and CSS**, this responsive component highlights one image
 
 ## 📁 Folder Structure
 
-3d-slider/
-├── index.html
-├── style.css
-├── images/
-│   ├── mech1.jpg
-│   ├── mech2.jpeg
-│   ├── mech3.jpeg
-│   ├── mech4.jpeg
-│   ├── mech5.jpeg
-│   ├── mech6.jpeg
-│   ├── mech7.jpeg
-│   ├── mech8.jpeg
-│   ├── mech9.jpeg
-│   ├── mech10.jpeg
-│   ├── model.png
-│   └── bg.png
+![image alt](https://github.com/jibii1/3D-Slider-Animation/blob/7499302428812633fea0b1f806ef96b080f470c4/Screenshot%202025-04-25%20160313.png)
